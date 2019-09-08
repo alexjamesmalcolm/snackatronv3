@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/snackatronv3/static/css/main.e14dd15c.chunk.css",
+    "main.js": "/snackatronv3/static/js/main.ecbbc7a7.chunk.js",
+    "main.js.map": "/snackatronv3/static/js/main.ecbbc7a7.chunk.js.map",
+    "runtime~main.js": "/snackatronv3/static/js/runtime~main.7e65a620.js",
+    "runtime~main.js.map": "/snackatronv3/static/js/runtime~main.7e65a620.js.map",
+    "static/js/2.53707654.chunk.js": "/snackatronv3/static/js/2.53707654.chunk.js",
+    "static/js/2.53707654.chunk.js.map": "/snackatronv3/static/js/2.53707654.chunk.js.map",
+    "index.html": "/snackatronv3/index.html",
+    "precache-manifest.11e2cbdf08200d546e05aac803eddd62.js": "/snackatronv3/precache-manifest.11e2cbdf08200d546e05aac803eddd62.js",
+    "service-worker.js": "/snackatronv3/service-worker.js",
+    "static/css/main.e14dd15c.chunk.css.map": "/snackatronv3/static/css/main.e14dd15c.chunk.css.map"
+  }
+}
